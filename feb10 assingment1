@@ -1,0 +1,27 @@
+#to generate student results
+Sno=int(input('enter students no:'))
+Sname=input('enter student name:'))
+Sgroup=input('enter student group:')
+s1=int(input('maths marks:'))
+s2=int(input('electronics marks:'))
+s3=int(input('computer marks:'))
+s4=int(input('english marks:'))
+s5=int(input('telugu marks:'))
+s6=int(input('ICT marks:'))
+if s1>=35 and s2>=35 and s3>=35 and s4>=35 and s5>=35 and s6>=35
+    print('pass')
+else:
+    print('fail')
+    
+    
+output:
+enter student no:13
+enter student name:pujitha
+enter student group:MECS
+maths marks:96
+electronics marks:98
+computer marks:93
+english marks:95
+telugu marks:90
+ICT  marks:97
+pass
